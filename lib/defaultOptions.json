@@ -1,0 +1,15 @@
+{
+  "outDir": "./dist",
+  "outFile": "index.js",
+  "publicUrl": "./",
+  "watch": true,
+  "cache": true,
+  "cacheDir": ".cache",
+  "contentHash": false,
+  "minify": false,
+  "target": "node",
+  "https": false,
+  "logLevel": 3,
+  "sourceMaps": true,
+  "detailedReport": false
+}

@@ -1,0 +1,10 @@
+{
+  "name": "parcel-server",
+  "version": "0.0.1",
+  "description": "Parcel configured for server side in node.js",
+  "license": "MIT",
+  "bin": "index.js",
+  "peerDependencies": {
+    "parcel-bundler": "^1.9.7"
+  }
+}
