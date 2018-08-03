@@ -1,6 +1,6 @@
 {
   "name": "parcel-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parcel configured for server side in node.js",
   "license": "MIT",
   "bin": "index.js",
